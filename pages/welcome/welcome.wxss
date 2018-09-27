@@ -1,0 +1,29 @@
+/* pages/welcome/welcome.wxss */
+
+.page {
+  height: 100vh;
+  background-color: #f0f9fa;
+}
+
+.img {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.imglogo {
+  width: 500rpx;
+  height: 500rpx;
+  padding-top: 10%;
+}
+
+#userinfo{
+  width: 185rpx;
+  height:185rpx;
+  border-radius:50%;
+  display: flex;
+  overflow:hidden;
+  text-align: center;
+  margin: 0 auto;
+}
+
